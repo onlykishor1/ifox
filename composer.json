@@ -1,0 +1,6 @@
+{
+    "require": {
+        "bcosca/fatfree": "^3.5",
+        "filp/whoops": "^2.1"
+    }
+}
